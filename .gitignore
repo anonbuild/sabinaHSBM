@@ -1,0 +1,16 @@
+testing/*
+notes*
+docs/*docx
+docs/*tex
+docs/*bkp
+docs/*RData
+docs/carnivore*
+docs/*cache
+docs/*files
+docs/Supporting_Information_S4*
+!docs/Supporting_Information_S4_sabinaHSBM.pdf
+!docs/Supplementary_data_1.csv
+docs/ref.bib
+*lock*
+*Rplots.pdf
+*auctex*
